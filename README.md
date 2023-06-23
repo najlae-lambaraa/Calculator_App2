@@ -13,5 +13,5 @@
 - Modifier des Matières
 - Changer le nom
 - Changer le coefficient
-- la moyenne des Matières
+- La moyenne des Matières
 - Total de projet/stage
