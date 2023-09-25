@@ -2,9 +2,9 @@
 Une application dédiée à la simulation et au calcul de moyennes.
 
 # Captures d'écrans de la vue
-| Podcasts list | Podcast view | Podcast view | Podcasts list |
-| :---: | :---: | :---: | :---: |
-|<img src="./Documentation/images/cap1.png" width=200/>|<img src="./Documentation/images/cap2.png" width=200/>|<img src="./Documentation/images/cap3.png" width=200/>|<img src="./Documentation/images/cap5.png" width=200/>|<img src="./Documentation/images/cap7.png" width=200/>|
+| Résumé des notes | Notes de l'UE | Modification | Modification | Suppression |
+| :---: | :---: | :---: | :---: | :---: |
+|<img src="./Documentation/images/cap4.png" width=200/>|<img src="./Documentation/images/cap1.png" width=200/>|<img src="./Documentation/images/cap2.png" width=200/>|<img src="./Documentation/images/cap3.png" width=200/>|<img src="./Documentation/images/cap5.png" width=200/>|<img src="./Documentation/images/cap7.png" width=200/>|
 
 # Fonctionnalités
 
